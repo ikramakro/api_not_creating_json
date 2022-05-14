@@ -33,7 +33,7 @@ class _APiScreenState extends State<APiScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text('those api who do not create dart module'),
+          title: Text('those api who do not create dart modules'),
         ),
         body: Column(
           children: [
